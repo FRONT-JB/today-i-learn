@@ -21,11 +21,9 @@
 
 <br />
 
-# Redux, Mobx, Context API 차이, 장단점
+# Redux, Mobx, Context API 차이, 장단점 [Github](https://github.com/rangyu/TIL/blob/master/react/Redux-vs-MobX-vs-Context-API.md)
 
 ## **Redux (리덕스)**
-
-[https://deminoth.github.io/redux/](https://deminoth.github.io/redux/)
 
 - Flux 패턴 기반의 상태관리 라이브러리.
 - 리액트스러운 개발 방식.
@@ -60,6 +58,8 @@
 <br />
 
 # useMemo, useCallback 에서의 deps 역할?
+
+**[useEffect, useCallback, useMemo 비교](https://velog.io/@mementomori/useEffect-useCallback-useMemo-%EB%B9%84%EA%B5%90)**
 
 ## useEffect
 
@@ -131,5 +131,6 @@ const memoizedValue = useMemo(() => computeExpensiveValue(a, b), [a, b]);
 
 [[React] CSS in JS 방법론 (feat. Styled-Component)](https://developer-adam.tistory.com/23)
 
-<img width="886" alt="image" src="https://user-images.githubusercontent.com/85790271/153865038-02c976db-e52b-4ed1-81d7-5cba7af2667c.png">
+<img width="883" alt="image" src="https://user-images.githubusercontent.com/85790271/153866881-b0f302b7-4a5f-4b60-84a0-54df9cd28164.png">
+
 
