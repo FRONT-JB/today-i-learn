@@ -30,6 +30,14 @@
 
 ## JS
 
+**core**
+
+[Primitive Type, Reference Type](javascript/core/dataType.md)
+
+<br />
+
+**etc**
+
 [Factory & Module patterns in Javascript](javascript/patterns/factory-module-pattern.md)
 
 ---
