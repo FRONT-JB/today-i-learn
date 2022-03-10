@@ -34,6 +34,8 @@
 
 [Primitive Type, Reference Type](javascript/core/dataType.md)
 
+[Scope](javascript/core/scope.md)
+
 <br />
 
 **etc**
