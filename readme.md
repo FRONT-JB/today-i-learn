@@ -42,10 +42,16 @@
 
 [Factory & Module patterns in Javascript](javascript/patterns/factory-module-pattern.md)
 
+---
+
 <br />
 
 ## Favorit
 
 [NextJs, Redux, Redux-Toolkit](favorit/next-redux-toolkit.md)
 
----
+<br />
+
+## Communication
+
+[질문하는 방법](communication/question.md)
