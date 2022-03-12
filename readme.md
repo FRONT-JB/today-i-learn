@@ -48,6 +48,8 @@
 
 ## Favorit
 
+[React](react/react.md)
+
 [NextJs, Redux, Redux-Toolkit](favorit/next-redux-toolkit.md)
 
 <br />
