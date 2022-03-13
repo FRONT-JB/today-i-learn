@@ -8,8 +8,6 @@
 
 [Interview, 20220308](interview/readme3.md)
 
----
-
 <br />
 
 ## HTML
@@ -45,8 +43,6 @@
 [Flow - Facebook](https://medium.com/@2woongjae/typescript-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-flow-%ED%83%90%ED%97%98%EA%B8%B0-1-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95-b852baf19d17)
 
 [Factory & Module patterns in Javascript](javascript/patterns/factory-module-pattern.md)
-
----
 
 <br />
 
