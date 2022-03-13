@@ -36,6 +36,8 @@
 
 [Scope](javascript/core/scope.md)
 
+[Closure](javascript/core/closure.md)
+
 <br />
 
 **etc**
@@ -50,7 +52,7 @@
 
 ## Favorit
 
-[React](react/react.md)
+[React](react/react.md)\*\*\*\*
 
 [NextJs, Redux, Redux-Toolkit](favorit/next-redux-toolkit.md)
 
