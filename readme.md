@@ -57,3 +57,9 @@
 ## Communication
 
 [질문하는 방법](communication/question.md)
+
+<br />
+
+## Setting
+
+[M1 Mac](https://jeonbg.notion.site/Setting-ce0c9420691c4f68af2a7bc51c5db22c)
