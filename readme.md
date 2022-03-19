@@ -63,3 +63,9 @@
 ## Setting
 
 [M1 Mac](https://jeonbg.notion.site/Setting-ce0c9420691c4f68af2a7bc51c5db22c)
+
+<br />
+
+## Books
+
+[실용주의 프로그래머](books/The-Progmatic-Programmer/readme.md)
