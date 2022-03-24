@@ -5,3 +5,5 @@
 **[실용주의 접근법](post/days2.md)**
 
 **[기본 도구](post/days3.md)**
+
+**[실용주의 편집증](post/days4.md)**
