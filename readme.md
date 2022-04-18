@@ -52,6 +52,8 @@
 
 [NextJs, Redux, Redux-Toolkit](favorit/next-redux-toolkit.md)
 
+[TOSS](favorit/oganization.md)
+
 <br />
 
 ## Communication
