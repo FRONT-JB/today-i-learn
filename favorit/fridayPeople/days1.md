@@ -8,8 +8,6 @@
 
 **`CMS`**
 
-**[Youtube - Sanity](https://www.youtube.com/watch?v=B1sXeodBLj4)**
+**[Youtube - Sanity 1](https://www.youtube.com/watch?v=B1sXeodBLj4)**
 
-<br />
-
-**[Youtube - Sanity](https://www.youtube.com/watch?v=I2dcpatq54o)**
+**[Youtube - Sanity 2](https://www.youtube.com/watch?v=I2dcpatq54o)**
