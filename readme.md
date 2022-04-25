@@ -54,6 +54,8 @@
 
 [Friday People](favorit/fridayPeople/index.md)
 
+[Monorepo Plan](favorit/monorepo/monorepo.md)
+
 <br />
 
 ## Communication
