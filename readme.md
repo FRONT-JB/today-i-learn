@@ -56,6 +56,7 @@
 
 [Monorepo Plan](favorit/monorepo/monorepo.md)
 
+[AWS](favorit/aws/s3.md)
 <br />
 
 ## Communication
