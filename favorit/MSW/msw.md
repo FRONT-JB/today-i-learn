@@ -75,7 +75,8 @@
 
 **`Service Worker란?`**
 
-    Service Worker는 웹 애플리케이션의 메인 스레드와 분리된 별도의 백그라운드 스레드에서 실행시킬 수 있는 기술 중 하나이다. Service Worker 덕분에 애플리케이션의 UI Block 없이 연산을 처리할 수 있다.
+    Service Worker는 웹 애플리케이션의 메인 스레드와 분리된 별도의 백그라운드 스레드에서 실행시킬 수 있는 기술 중 하나이다.
+    Service Worker 덕분에 애플리케이션의 UI Block 없이 연산을 처리할 수 있다.
 
 <br />
 
