@@ -58,6 +58,8 @@
 
 [AWS](favorit/aws/s3.md)
 
+[MSW](favorit/MSW/msw.md)
+
 <br />
 
 ## Communication
