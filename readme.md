@@ -36,6 +36,8 @@
 
 [Closure](javascript/core/closure.md)
 
+[Typescript](javascript/typescript/typescript.md)
+
 <br />
 
 **etc**
