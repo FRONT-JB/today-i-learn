@@ -62,6 +62,8 @@
 
 [MSW](favorit/MSW/msw.md)
 
+[잃어버린 유저의 시간을 찾아서 : 100년을 아껴준 SSR 이야기](https://www.youtube.com/watch?app=desktop&v=IKyA8BKxpXc&feature=youtu.be)
+
 <br />
 
 ## Communication
