@@ -9,6 +9,11 @@ _아래의 두 항목 설정 및 저장_
     PubkeyAuthentication yes
     PubkeyAcceptedKeyTypes=+ssh-rsa
 
+
+```bash
+sudo systemctl restart sshd
+```
+
 ---
 
 `github action not found error`
