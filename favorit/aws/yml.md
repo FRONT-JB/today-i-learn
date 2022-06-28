@@ -61,3 +61,78 @@ jobs:
             Build Message: ${{ github.event.inputs.message }}
             [See Action Log](https://github.com/${{ github.repository }}/actions)
 ```
+
+**`Turborepo Actions`**
+
+```yml
+name: Condition Monorepo Build
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  condition:
+    name: Find Turborepo Cache Build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 100
+      - uses: actions/setup-node@v2-beta
+        with:
+          node-version: "16.14.x"
+          check-latest: true
+
+      - name: Turbo Cache
+        id: turbo-cache
+        uses: actions/cache@v2
+        with:
+          path: .turbo
+          key: turbo-${{ github.job }}-${{ github.ref_name }}-${{ github.sha }}
+          restore-keys: |
+            turbo-${{ github.job }}-${{ github.ref_name }}-
+
+      - uses: c-hive/gha-yarn-cache@v2
+
+      - name: Install Dependencies
+        run: yarn install
+
+      - uses: marceloprado/has-changed-path@v1
+        id: service-one
+        with:
+          paths: apps/service-one
+
+      - uses: marceloprado/has-changed-path@v1
+        id: service-two
+        with:
+          paths: apps/service-two
+
+      - uses: marceloprado/has-changed-path@v1
+        id: service-three
+        with:
+          paths: apps/service-three
+
+      - uses: marceloprado/has-changed-path@v1
+        id: service-four
+        with:
+          paths: apps/service-four
+
+      - name: Build Test Service One
+        if: steps.serivce-one.outputs.changed == 'true'
+        run: yarn build:service-one
+
+      - name: Build Test Service Two
+        if: steps.service-two.outputs.changed == 'true'
+        run: yarn build:service-two
+
+      - name: Build Test Service Three
+        if: steps.service-three.outputs.changed == 'true'
+        run: yarn build:service-three
+
+      - name: Build Test Service Four
+        if: steps.service-four.outputs.changed == 'true'
+        run: yarn build:service-four
+```
