@@ -58,7 +58,7 @@
 
 [Monorepo Plan](favorit/monorepo/monorepo.md)
 
-[AWS](favorit/aws/s3.md)
+[AWS](favorit/aws/index.md)
 
 [MSW](favorit/MSW/msw.md)
 
