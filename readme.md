@@ -62,6 +62,8 @@
 
 [MSW](favorit/MSW/msw.md)
 
+[OPTIMIZE](favorit/optimize/index.md)
+
 [잃어버린 유저의 시간을 찾아서 : 100년을 아껴준 SSR 이야기](https://www.youtube.com/watch?app=desktop&v=IKyA8BKxpXc&feature=youtu.be)
 
 [Effective Component 지속 가능한 성장과 컴포넌트](https://www.youtube.com/watch?v=fR8tsJ2r7Eg)
