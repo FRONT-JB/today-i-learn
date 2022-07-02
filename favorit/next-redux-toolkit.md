@@ -7,3 +7,7 @@
 <br />
 
 [Youtube: RTK-Query vs React-Query](https://www.youtube.com/watch?v=LDS1ll93P-s)
+
+<br />
+
+[NextJS SSR, SSG, ISR](https://cpro95.tistory.com/492)
