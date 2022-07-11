@@ -74,6 +74,8 @@
 
 [HOC](favorit/hoc/hoc.md)
 
+[NEXTJS CORS](favorit/cors/nextjs.md)
+
 <br />
 
 ## Communication
