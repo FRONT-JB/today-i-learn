@@ -1,0 +1,3 @@
+# REACT || NEXTJS HOC
+
+[NEXTJS HOC SSR PROPS](nextjs.md)
