@@ -6,7 +6,7 @@
 ```js
 // next.config.js
 {
-	async rewrites() {
+  async rewrites() {
     return [
       {
         source: `/변경할URL/:path*`,
