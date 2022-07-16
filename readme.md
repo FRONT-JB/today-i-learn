@@ -76,6 +76,8 @@
 
 [NEXTJS CORS](favorit/cors/nextjs.md)
 
+[클라이언트 서버 모두에서 nextjs에서 api에러 핸들링하기](https://yceffort.kr/2021/10/api-error-handling-nextjs)
+
 <br />
 
 ## Communication
