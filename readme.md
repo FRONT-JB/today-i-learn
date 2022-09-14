@@ -46,6 +46,8 @@
 
 [Factory & Module patterns in Javascript](javascript/patterns/factory-module-pattern.md)
 
+[Style Guide](javascript/style-guide/code.md)
+
 <br />
 
 ## Favorit
